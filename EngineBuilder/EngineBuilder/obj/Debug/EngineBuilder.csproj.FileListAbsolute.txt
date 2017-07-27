@@ -15,3 +15,8 @@ C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\bin\Debug\EngineBuild
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\bin\Debug\EngineBuilder.pdb
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\obj\Debug\EngineBuilder.dll
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\obj\Debug\EngineBuilder.pdb
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder\bin\Debug\EngineBuilder.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder\bin\Debug\EngineBuilder.pdb
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder\obj\Debug\EngineBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder\obj\Debug\EngineBuilder.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder\obj\Debug\EngineBuilder.pdb

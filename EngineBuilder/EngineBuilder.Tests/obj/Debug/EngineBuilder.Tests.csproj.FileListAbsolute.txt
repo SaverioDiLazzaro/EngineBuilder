@@ -39,3 +39,13 @@ C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder.Tests\obj\Debug\Engin
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder.Tests\obj\Debug\EngineBuilder.Tests.dll
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder.Tests\obj\Debug\EngineBuilder.Tests.pdb
 C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\EngineBuilder.Tests.dll.config
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\EngineBuilder.Tests.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\EngineBuilder.Tests.pdb
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\EngineBuilder.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\EngineBuilder.pdb
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\obj\Debug\EngineBuilder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\obj\Debug\EngineBuilder.Tests.dll
+C:\Users\Savo\Documents\GitHub\EngineBuilder\EngineBuilder\EngineBuilder.Tests\obj\Debug\EngineBuilder.Tests.pdb
