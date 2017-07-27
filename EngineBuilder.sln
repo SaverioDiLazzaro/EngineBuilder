@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineBuilder", "EngineBuilder\EngineBuilder.csproj", "{07F1DB04-9626-4DFA-9D95-72C476B8B5EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineBuilder.Tests", "EngineBuilder.Tests\EngineBuilder.Tests.csproj", "{6DED6901-1C40-4E7F-BE20-5FDCDA89622B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F1DB04-9626-4DFA-9D95-72C476B8B5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F1DB04-9626-4DFA-9D95-72C476B8B5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F1DB04-9626-4DFA-9D95-72C476B8B5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F1DB04-9626-4DFA-9D95-72C476B8B5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DED6901-1C40-4E7F-BE20-5FDCDA89622B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DED6901-1C40-4E7F-BE20-5FDCDA89622B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DED6901-1C40-4E7F-BE20-5FDCDA89622B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DED6901-1C40-4E7F-BE20-5FDCDA89622B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
